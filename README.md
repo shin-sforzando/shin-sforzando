@@ -1,4 +1,4 @@
-### Shin'ichiro Suzuki
+### 鈴木 真一朗
 
 <table>
   <thead>
