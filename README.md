@@ -7,6 +7,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shin-sforzando&count_private=true&show_icons=true&theme=monokai" />
 </a>
 
-For more details, refer to my Sourcerer page: <a href="https://sourcerer.io/shin-sforzando" alt="shin-sforzando | Sourcerer">
-  <img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer">
-</a>
+For more details, refer to <a href="https://sourcerer.io/shin-sforzando" alt="shin-sforzando | Sourcerer">my Sourcerer page</a>.
