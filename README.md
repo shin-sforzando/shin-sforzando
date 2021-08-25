@@ -2,4 +2,4 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 ![](https://github-profile-trophy.vercel.app/?username=shin-sforzando&no-frame=true&column=8)
 
-Support: <a href="https://www.buymeacoffee.com/sforzando" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/sforzando" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
