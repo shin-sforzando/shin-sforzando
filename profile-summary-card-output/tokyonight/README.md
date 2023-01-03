@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/shin-sforzando/shin-sforzando/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
+```
+
+    
