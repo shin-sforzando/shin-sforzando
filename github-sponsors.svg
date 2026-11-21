@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="326" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="379" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.sponsors{white-space:normal;margin:0 13px 2px}.sponsors.goal{padding:6px 8px;border-radius:5px;background-color:#7777771f}.sponsors .goal-text{display:flex;justify-content:space-between;font-style:italic;font-size:12px;margin-bottom:4px}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.people{padding:0 10px}.sponsors{white-space:normal;margin:0 13px 2px}.sponsors.goal{padding:6px 8px;border-radius:5px;background-color:#7777771f}.sponsors .goal-text{display:flex;justify-content:space-between;font-style:italic;font-size:12px;margin-bottom:4px}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,7 +15,7 @@
                 </h2>
                 <div class="fill-width">
                     <section class="sponsors goal">
-                        <div class="markdown">If I could get a $50 every month, I could buy some toys for my children.</div>
+                        <div class="markdown">With $10 a month, I could buy some toys for my kids — and keep building fun things here.</div>
                         <div class="center horizontal-wrap ">
                             <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="440" height="8">
                                 <mask id="project-bar">
@@ -28,14 +28,16 @@
                         <div class="goal-text">
                             <span>
                             </span>
-                            <span>$50 per month</span>
+                            <span>$10 per month</span>
                         </div>
                     </section>
                 </div>
                 <div class="row fill-width">
                     <section class="sponsors">
                         <div class="markdown">
-                            <p>Born in 1983 in Aizuwakamatsu City, Fukushima Prefecture. In 2005, I was the head of the development of "Brain Storming Engine" which was supported by the IPA MITOU youth program. I completed my master's degree at Japan Advanced Institute of Science and Technology. While a JAIST student, I was in charge of the development "Blographer" which was supported by IPA MITOU project. After working at the Advanced Solution Center of Uchida Co., Ltd. and the National Museum of Emerging Science and Innovation (Miraikan), I founded szk-engineering in 2014, incorporated as sforzando LLC. in 2017, and founded sforzando Inc. in Vancouver in 2019.</p>
+                            <p>I build prototypes that bring research to life. For over a decade, I've worked alongside researchers to turn their ideas into something people can see, touch, and use.</p>
+                            <p>My path started with two IPA MITOU projects: "Brain Storming Engine" (2005), built as an undergraduate at Future University Hakodate, and "Blographer," developed during my master's at JAIST. I then worked at Uchida Yoko's Advanced Solution Center and at Miraikan, the National Museum of Emerging Science and Innovation, before founding szk-engineering in 2014. It became sforzando LLC in 2017, followed by sforzando Inc. in Vancouver in 2019.</p>
+                            <p>Your sponsorship helps me keep publishing open-source tools and experiments here on GitHub.</p>
                         </div>
                     </section>
                 </div>
